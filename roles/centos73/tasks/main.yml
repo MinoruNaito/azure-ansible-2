@@ -14,7 +14,7 @@
     ssh_password_enabled: False
     ssh_public_keys:
       - path: "/home/centos/.ssh/authorized_keys"
-        key_data: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCwTXfsS4+FRigKOYxWt9NYIQ2nSEA+dRu40d2+gkYEaZEuXpTL1VO+PNHzibC9v6zKwBD2bTyvCGb88/ybB6uKicUKlZhNKZs+tSvyrhgF+15Xh/3K1gS+ZAGszt3xUBHPynM4HcOU/anx32zO+lHCRUDPkbSeRlXzUsUJ0tC0aoye9kQsh96jF9Z2OrTPL42eLmLtK+uVNHwQvrhmuYrRAdlTM1we6Brf0AqeX8t1qNTMF9oURNSAFL5S21V+gYQlXIflUSEoFpHEWy/I9Drt6OREW6alxbuTHTw8LFk0E4yIWuOUXgYsnJt84W0EElyip7LJyzEtdg06NSeVhxSB ubuntu@JPSHTSUKAM001"
+        key_data: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCbdJIsDQMdhtVJ3h6Z1mxZWeues1qWbx0sShYs7i1CCbrXEFaWEGmShhHQDNeMBhcnoC5P+ps/oIjjIlFTgSOddwsjRRWpbklsHm9uKiy9A8DK5BTsz9N8Q+ShV/20z9bzBwo0zYeJxajLuqHb4ZY9cp/19wLKBkSP+dka1jLK5caQzWAjJr0frfKEIqjMxrPMMu/UMemMnI94VR+W+RUJ7I8NCTUmoZj1wfz400VAUCnHtTCkl8e3JABoqBLog5tQ7HfnbqhGXZPX4lDdT8Ostw8HbOAdCz0n4EHWTXufzUfCkzTNqyhcP+hz5peNXU0qfK+hXlBIa9b0sCRsezDR"
     image:
       offer: CentOS
       publisher: OpenLogic
